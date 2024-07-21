@@ -1,0 +1,29 @@
+Mr Robot,2,Linux
+Thompson,1,Linux
+Kenobi,1,Linux
+GameZone,1,Linux
+Skynet,1,Linux
+Daily bugle,3,Linux
+Lazy admin,2,Linux
+Tomghost,1,Linux
+Rootme,1,Linux
+CMesS,2,Linux
+Ultratech,1,Linux
+Internal,3,Linux
+Zeno,1,Linux
+Boiler CTF,3,Linux
+Wonderland,2,Linux
+Steel Mountain,1,Windows
+Year of the Owl,2,Windows
+Retro,3,Windows
+Alfred,1,Windows
+Relevant,2,Windows
+Blueprint,1,Windows
+Hackpark,2,Windows
+Weasel,2,Windows
+AllSignsPoint2Pwnage,2,Windows
+Anthem,1,Windows
+Attacktive Directory,2,Active Directory
+Corp,1,Active Directory
+Attacking Kerberos,1,Active Directory
+Wreath Network,3,Active Directory

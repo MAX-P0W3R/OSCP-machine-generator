@@ -1,0 +1,61 @@
+ClamAV,1,Linux
+Pelican,2,Linux
+Payday,2,Linux
+Snookums,2,Linux
+Bratarina,1,Linux
+Pebbles,1,Linux
+Nibbles,2,Linux
+Hetemit,2,Linux
+ZenPhoto,2,Linux
+Nukem,2,Linux
+Cockpit,2,Linux
+PyLoader,2,Linux
+Clue,3,Linux
+Extplorer,2,Linux
+Boolean,2,Linux
+Postfish,2,Linux
+Hawat,1,Linux
+Walla,2,Linux
+PC,2,Linux
+Apex,2,Linux
+Sorcerer,2,Linux
+Sybaris,2,Linux
+Peppo,3,Linux
+Hunit,2,Linux
+Readys,2,Linux
+Astronaut,1,Linux
+Bullybox,2,Linux
+Marketing,2,Linux
+Exfiltrated,1,Linux
+Fanatastic,1,Linux
+QuackerJack,2,Linux
+Wombo,1,Linux
+Flu,2,Linux
+Roquefort,2,Linux
+Levram,1,Linux
+Mzeeav,2,Linux
+LaVita,2,Linux
+Xposedapi,2,Linux
+Zipper,3,Linux
+Ochima,2,Linux
+Kevin,1,Windows
+Internal,1,Windows
+Helpdesk,1,Windows
+Algernon,1,Windows
+Jacko,2,Windows
+Craft,2,Windows
+Squid,1,Windows
+Nickel,2,Windows
+MedJed,2,Windows
+Billyboss,2,Windows
+Shenzi,2,Windows
+AuthBy,2,Windows
+Slort,2,Windows
+Hepet,2,Windows
+DVR4,2,Windows
+Access,2,Active Directory
+Heist,3,Active Directory
+Resourced,2,Active Directory
+Vault,3,Active Directory
+Nagoya,3,Active Directory
+Hokkaido,2,Active Directory

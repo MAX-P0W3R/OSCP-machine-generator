@@ -1,0 +1,59 @@
+Lame,1,Linux
+Nibbles,1,Linux
+Solidstate,2,Linux
+Poison,2,Linux
+Knife,1,Linux
+Sunday,1,Linux
+Keeper,1,Linux
+Pilgrimage,1,Linux
+Cozyhosting,1,Linux
+Codify,1,Linux
+Tartarsauce,2,Linux
+Jarvis,2,Linux
+Tabby,1,Linux
+Falafel,3,Linux
+Mentor,2,Linux
+Devvortex,1,Linux
+Irked,1,Linux
+Popcorn,2,Linux
+Bashed,1,Linux
+Broker,1,Linux
+Analytics,1,Linux
+Networked,1,Linux
+UpDown,2,Linux
+Swagshop,1,Linux
+Nineveh,2,Linux
+Pandora,1,Linux
+OpenAdmin,1,Linux
+Precious,1,Linux
+Busqueda,1,Linux
+Monitored,2,Linux
+BoardLight,1,Linux
+Magic,2,Linux
+Help,1,Linux
+Editorial,1,Linux
+Jerry,1,Windows
+Netmon,1,Windows
+Servmon,1,Windows
+Chatterbox,2,Windows
+Jeeves,2,Windows
+Sniper,2,Windows
+Querier,2,Windows
+Acute,3,Windows
+Bounty,1,Windows
+Arctic,1,Windows
+Remote,1,Windows
+Buff,1,Windows
+Love,1,Windows
+Secnotes,2,Windows
+Access,1,Windows
+Aero,2,Windows
+Mailing,1,Windows
+Active,1,Active Directory
+Forest,1,Active Directory
+Sauna,1,Active Directory
+Monteverde,1,Active Directory
+Timelapse,1,Active Directory
+Flight,3,Active Directory
+Return,1,Active Directory
+Cascade,2,Active Directory
