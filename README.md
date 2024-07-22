@@ -28,6 +28,8 @@ Finally the terminal will output the selected machines for practice and :
 Selected items:
 **NAME OF MACHINE** (Difficulty: **EASY,MEDIUM,HARD**, Trait: **WINDOWS,LINUX,ACTIVE DIRECTORY**)
 ```
+## Screenshot:
+![image](https://github.com/user-attachments/assets/c7818b90-be15-4aa0-bc6f-0b531917a977)
 
 Known issues:
 ##### NOTE: ProvingGrounds Play is only Linux and will error if you select Windows or Active Directory.
