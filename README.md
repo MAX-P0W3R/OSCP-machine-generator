@@ -25,11 +25,15 @@ Next you can select OS or ALL for a random selection:
 Which trait do you want to filter by? (Linux, Windows, Active Directory, all):
 ```
 
-Finally the terminal will output the selected machines for practice and :
-```
-Selected items:
-**NAME OF MACHINE** (Difficulty: **EASY,MEDIUM,HARD**, Trait: **WINDOWS,LINUX,ACTIVE DIRECTORY**)
-```
+Finally the terminal will output the selected machines for practice, Difficulty, OS, and average difficulty:
+
+```NAME OF MACHINE (Difficulty: EASY,MEDIUM,HARD, Trait: WINDOWS,LINUX,ACTIVE DIRECTORY)```
+
+The last line will show an average difficulty for the machines selected based on 1-3 (1=Easy, 2=Intermediate, 3=Hard)
+
+```Average Difficulty Level:____ ```
+
+
 ## Screenshot:
 ![image](https://github.com/user-attachments/assets/80fbe593-1623-4e67-ba80-03aa146394b4)
 
