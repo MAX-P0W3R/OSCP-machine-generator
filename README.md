@@ -1,5 +1,5 @@
 # OSCP-machine-generator
-A simple python script that will generate 2-6 machine names from the now infamous "Lainkusanagi PEN-200 practice list". This is just for fun. I was finding myself constantly going back to or seareching for the google doc to lookup practice machines and I though this would be a fun project. Please reach out with tips, comments, concerns. I will try to update the machines lists as well. Thanks and enjoy!
+A simple python script that will generate 2-6 machine names from the now infamous [Lainkusanagi PEN-200 practice list](https://docs.google.com/spreadsheets/u/0/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/htmlview?pli=1). This is just for fun. I was finding myself constantly going back to or seareching for the google doc to lookup practice machines and I though this would be a fun project. Please reach out with tips, comments, concerns. I will try to update the machines database as well when new ones are added. Thanks and enjoy!
 
 1. Clone the repo: ```git clone https://github.com/MAX-P0W3R/OSCP-machine-generator```
 2. Move to the dir ```cd OSCP-machine-generator```
