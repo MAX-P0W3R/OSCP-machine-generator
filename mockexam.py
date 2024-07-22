@@ -49,8 +49,6 @@ def main():
             print(f"Invalid input. Please enter a number between 1 and {len(databases)}.")
 
     items = load_items(filename)
-    
-    # Updating databases above^
 
     while True:
         try:
