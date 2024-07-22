@@ -1,5 +1,5 @@
 # OSCP-machine-generator
-A simple python script that will generate 2-6 machine names from the now infamous "Lainkusanagi &amp; TJ Null OSCP trophy list".
+A simple python script that will generate 2-6 machine names from the now infamous "Lainkusanagi PEN-200 practice list".
 
 This basic program will run with ```python3 mockexam.py``` and present you with a few choices. First, which platform would you like to use:
 
