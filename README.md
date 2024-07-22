@@ -18,7 +18,7 @@ Then you will be able to choose how many machines to generate:
 How many machines would you like to attempt? (2-6):
 ```
 
-Next you can select OS or ALL for a random selection:
+Next you can select OS or ALL for a random selection:  
 ```
 Which trait do you want to filter by? (Linux, Windows, Active Directory, all):
 ```
@@ -28,3 +28,7 @@ Finally the terminal will output the selected machines for practice and :
 Selected items:
 **NAME OF MACHINE** (Difficulty: **EASY,MEDIUM,HARD**, Trait: **WINDOWS,LINUX,ACTIVE DIRECTORY**)
 ```
+
+Known issues:
+##### NOTE: ProvingGrounds Play is only Linux and will error if you select Windows or Active Directory.
+##### NOTE: Virtual Hacking Labs is only Linux and Windows and will error if you select Active Directory.
