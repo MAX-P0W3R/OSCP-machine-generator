@@ -6,3 +6,7 @@ DriftingBlue6,1,Linux
 Blogger,1,Linux			
 DC-9,2,Linux			
 Amaterasu,1,Linux
+Loly,2,Linux
+Potato,1,Linux
+BBScute,1,Linux
+Gaara,1,Linux
